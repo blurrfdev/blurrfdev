@@ -6,4 +6,4 @@
 
 ### 📈 Github Stats
 
-<img align="left" alt="blurrfdev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=blurrfdev&show_icons=true&theme=radical" />
+<img align="left" alt="blurrfdev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=blurrfdev&show_icons=true&theme=tokyonight" />

@@ -6,4 +6,4 @@
 
 ### 📈 Github Stats
 
-<img align="left" alt="teramon1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=teramon&show_icons=true&theme=tokyonight" />
+<img align="left" alt="teramon1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=teramon1&show_icons=true&theme=tokyonight" />
